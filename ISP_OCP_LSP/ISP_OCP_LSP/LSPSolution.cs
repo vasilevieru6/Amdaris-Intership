@@ -17,7 +17,7 @@ namespace ISP_OCP_LSP
     {
         public void Fly()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I can fly");
         }
     }
 
